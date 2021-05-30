@@ -3,3 +3,4 @@
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 192.168.226.139	node6.example.com	node6
 192.168.226.137	docker.example.com	docker
+192.168.226.138	docker8.example.com	docker8
